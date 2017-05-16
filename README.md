@@ -1,5 +1,5 @@
 # sudoku
 Basic game development
 
-This python script to create a suduko puzzle this solve it. This is in the development stage. My programming skills 
-are not great so this program is not optimized.
+This repository contains a program to create a suduko puzzle then solve it. This program is in the development stages. 
+Additionally, my programming skills are not great so this program may not be optimized.
